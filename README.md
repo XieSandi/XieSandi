@@ -1,4 +1,4 @@
-	:raising_hand_man: Hello, my name is Sandi Pratama a self-employed UI Designer.
+Hello, my name is Sandi Pratama a self-employed UI Designer.
 
 I've currently studied at Widyatama University
 
