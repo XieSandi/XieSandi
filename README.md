@@ -1,5 +1,5 @@
-Hello, my name is Sandi Pratama a self-employed UI Designer.
+Hello, my name is Sandi Pratama a self-employed UI Designer & FrontEnd Engineer
 
-I've currently studied at Widyatama University
+Currently studied at Widyatama University
 
 Feel free to use my code from any repository for your educational purpose as a boilerplate.
