@@ -31,7 +31,9 @@
 <table style="width:100% ; border: 0px solid transparen">
   <tr>
     <th><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiesandi&show_icons=true&locale=en&layout=compact" alt="xiesandi" /></th>
-    <th><img align="right" src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" /></p></th>
+    <th><img align="right" src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" /></th>
   </tr>
 </table>
 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xiesandi&show_icons=true&locale=en&layout=compact" alt="xiesandi" /><img src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" />
