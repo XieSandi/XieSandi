@@ -1,9 +1,9 @@
 <h1 align="center">Hey There , Xie Here!</h1>
 <h3 align="center">I'm UI UX Designer From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiesandi&label=Profile%20views&color=0e75b6&style=flat" alt="xiesandi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xiesandi&label=Profile%20views&color=0e75b6&style=flat" alt="xiesandi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiesandi" alt="xiesandi" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xiesandi" alt="xiesandi" /></a> </p>
 
 
 - 🌱 I’m currently learning **Flutter and Axure**
@@ -34,6 +34,3 @@
     <th><img align="right" src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" /></th>
   </tr>
 </table>
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=xiesandi&show_icons=true&locale=en&layout=compact" alt="xiesandi" /><img src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" />
