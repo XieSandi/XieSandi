@@ -32,7 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiesandi&show_icons=true&locale=en&layout=compact" alt="xiesandi" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiesandi&" alt="xiesandi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xiesandi&show_icons=true&locale=en" alt="xiesandi" /></p>
