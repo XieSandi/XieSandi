@@ -20,6 +20,7 @@
 <a href="https://twitter.com/xiesandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xiesandi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/xiessandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="xiessandi" height="30" width="40" /></a>
 <a href="https://instagram.com/xie.sandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="xie.sandi" height="30" width="40" /></a>
+<a href="https://medium.com/@xiesandi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@xiesandi" height="30" width="40" /></a>
 </p>
 
 
@@ -33,5 +34,9 @@
   </tr>
 </table>
 
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/xiesandi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xiesandi" /></a></p><br><br>
