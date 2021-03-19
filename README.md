@@ -29,7 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Yuk kenalan dengan yang namanya UI pada ranah pembuatan aplikasi !](https://medium.com/@xiesandi/yuk-kenalan-dengan-yang-namanya-ui-pada-ranah-pembuatan-aplikasi-c2af8495bece?source=rss-c6b7541c49f------2)
+- [Yuk kenalan dengan yang namanya UI pada ranah pembuatan aplikasi !](https://xiesandi.medium.com/yuk-kenalan-dengan-yang-namanya-ui-pada-ranah-pembuatan-aplikasi-c2af8495bece?source=rss-c6b7541c49f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Support:</h3>
