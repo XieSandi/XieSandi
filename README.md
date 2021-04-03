@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **UI Design System Open Source Project**
 
-- 👨‍💻 You can found my portfolio at [xiesandi.cyou](xiesandi.cyou)
+- 👨‍💻 You can found my portfolio at [xiesandi.cyou](https://xiesandi.cyou)
 
 - 💬 Let's discuss about **UI, UX, & Game Dev**
 
