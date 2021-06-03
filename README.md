@@ -4,13 +4,17 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xiesandi&label=Profile%20views&color=0e75b6&style=flat" alt="xiesandi" /> </p>
 
 
-- 🌱 I’m currently learning **AWS and Alibaba Cloud Platform**
+Hello, my name is Sandi Pratama, a User Interface Designer.
 
-- 👯 I’m looking to collaborate on **UI Design System Open Source Project**
+I'm a friendly person and open to collaborating with anyone in UI, UX, CX, IxD, and Video Game Development.
 
-- 👨‍💻 You can found my portfolio at [xiesandi.cyou](https://xiesandi.cyou)
+Other than design skills, I also have skills in Cloud Computing and DevOps area.
 
-- 💬 Let's discuss about **UI, UX, & Game Dev**
+I'm someone who has a generalization type of skill set . I'm currently working on the UI UX area for T shaped specialization.
+
+I'm Starting my career journey as a UI designer when I was a college student at Widyatama University. Besides working as a UI designer, I'm also active in various communities and organizations such as Google Developer Student Club and Github Community.
+
+Besides working as UI Designer, I'm also hustling a small indie video game development team.
 
 
 <h3 align="left">Connect with me:</h3>
