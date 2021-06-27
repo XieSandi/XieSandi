@@ -6,15 +6,15 @@
 
 Hello, my name is Sandi Pratama, a User Interface Designer.
 
-I'm a friendly person and open to collaborating with anyone.
+I'm a friendly person and open to collaborating with anyone. </br>
 especialy in UI, UX, CX, IxD, and Video Game Development area.
 
 Other than design skills, I also have skills in Cloud Computing and DevOps area.
 
-I'm someone who has a generalization type of skill set . 
+I'm someone who has a generalization type of skill set . </br>
 And currently working on the UI UX area for T shaped specialization.
 
-I'm Starting my career journey as a UI designer when I was a college student at Widyatama University. 
+I'm Starting my career journey as a UI designer when I was a college student at Widyatama University. </br>
 Besides working as a UI designer, I'm also active in various communities and organizations.
 
 I'm also hustling a small indie video game development team.
