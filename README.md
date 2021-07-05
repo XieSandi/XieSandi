@@ -33,6 +33,9 @@ I'm also hustling a small indie video game development team.
 - [Yuk kenalan dengan yang namanya UI pada ranah pembuatan aplikasi !](https://xiesandi.medium.com/yuk-kenalan-dengan-yang-namanya-ui-pada-ranah-pembuatan-aplikasi-c2af8495bece?source=rss-c6b7541c49f------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Other Publications
+- [Crafting With XieSandi Publication @ Alibaba Cloud Proect Hub](https://www.alibabacloud.com/blog/crafting-with-xiesandi-a-video-game-about-handcrafting_597848)
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xiesandi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xiesandi" /></a></p><br><br>
 
